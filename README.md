@@ -16,5 +16,4 @@ circuit:
 <img width="528" height="307" alt="Image" src="https://github.com/user-attachments/assets/21e14ceb-d772-4be2-8c6f-528609475fd8" />
 
 Output;
-<img width="528" height="307" alt="Image" src="https://github.com/user-attachments/assets/21e14ceb-d772-4be2-8c6f-528609475fd8" />
-
+<img width="825" height="368" alt="Image" src="https://github.com/user-attachments/assets/0e83dd02-b7ed-4b9c-b278-4b773976ccd8" />
